@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">evaluacionuno</string>
+    <string name="reyslime">El rey slime es un jefe que representa al rey de los slimes. Es considerado el jefe más fácil.</string>
+    <string name="ojodecutulu">El ojo de Cthulhu es un jefe del modo normal y el segundo más fácil del juego, superando únicamente por el rey slime. Aún así, puede ser un desafío para jugadores novatos.</string>
+    <string name="esqueletron">Esqueletrón es un jefe del modo normal. Su derrota es necesaria para poder entrar al interior de la mazmorra, ya que en caso de no hacerlo,el guardián de la mazmorra derrotara al jugador de un golpe.</string>
+    <string-array name="problemas">
+        <item>Seleccione su problema</item>
+        <item>No logro visualizar las imagenes</item>
+        <item>No logro visualzar el texto</item>
+        <item>Los botones no cargan</item>
+        <item>Otro...</item>
+    </string-array>
+</resources>
